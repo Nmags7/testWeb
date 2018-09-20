@@ -1,0 +1,50 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Strict//EN" "DTD/xhtml1-strict.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml">
+<head>
+<meta http-equiv="Content-Type" content="text/html; charset=UTF-8" />
+<meta name="Generator" content="Kate, the KDE Advanced Text Editor" />
+<title>NickMagnuson</title>
+</head>
+<!-- Highlighting: "HTML" -->
+<body>
+<pre style='color:#1f1c1b;background-color:#ffffff;'>
+<b>&lt;html&gt;</b>
+
+<b>&lt;head&gt;</b>
+    <b>&lt;title&gt;</b>NickMagnuson]!<b>&lt;/title&gt;</b>
+    <b>&lt;style&gt;</b>
+        h1 {
+            <b>color</b>: <span style='color:#aa5500;'>Navy</span>;
+            <b>margin-left</b>: <span style='color:#b08000;'>90</span><span style='color:#0057ae;'>px</span>;
+        }
+        
+        h2 {
+            <b>color</b>: <span style='color:#aa5500;'>white</span>;
+            <b>background-color</b>: <span style='color:#aa5500;'>yellow</span>;
+        }
+        
+        img {
+            <b>padding</b>: <span style='color:#b08000;'>6</span><span style='color:#0057ae;'>px</span>;
+            <b>border</b>: <span style='color:#b08000;'>4</span><span style='color:#0057ae;'>px</span> <span style='color:#b08000;'>solid</span> <span style='color:#aa5500;'>#0000ff</span>;
+        }
+    <b>&lt;/style&gt;</b>
+<b>&lt;/head&gt;</b>
+
+<b>&lt;body&gt;</b>
+    <b>&lt;h1&gt;</b>Nick Magnuson<b>&lt;h1&gt;</b>
+    <b>&lt;h2&gt;</b>RHS Senior, Baseball, Football<b>&lt;/h2&gt;</b>
+
+    <b>&lt;h1&gt;</b>
+<b>&lt;ul&gt;</b>
+  <b>&lt;li&gt;</b>and the sexual revolution<b>&lt;/li&gt;</b>
+  <b>&lt;li&gt;</b>and held personal experiments <b>&lt;/li&gt;</b>
+<b>&lt;/ul&gt;&lt;/h1&gt;</b>
+
+    <b>&lt;img</b><span style='color:#006e28;'> src=</span><span style='color:#bf0303;'>&quot;WayzataPic.jpg&quot;</span><b>&gt;</b>
+
+<b>&lt;/body&gt;</b>
+<b>&lt;/html&gt;</b>
+</pre>
+</body>
+</html>
